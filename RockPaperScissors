@@ -1,0 +1,6 @@
+# This is a simple Rock Paper Scissors game that saves your score
+
+
+print('Rock Paper Scissors Go!')
+userinput = input()
+print('You played: ' + userinput )
